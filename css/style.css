@@ -4148,7 +4148,7 @@
 }
 
 .feature-three .feature-block_three:nth-child(2n + 0){
-	transform:translateY(30px);
+	/* transform:translateY(30px); */
 }
 
 .feature-three_circle-layer{
